@@ -89,3 +89,25 @@ nlu:
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+
+- intent: buy_phone
+  examples: |
+    - i would like to buy a phone 
+    - I want to buy a phone 
+    - please suggest me a good phone
+    - I wanted to purchase a phone 
+    - Can you recommend me a phone
+    - give me some recommendations for mobile phone
+    - can you suggest a phone 
+    - I wana buy a phone
+    - Im itreseted in puurchasing a phone
+
+- intent: latest_news_phone
+  examples: |
+    - Whats the latest news for mobile phone 
+    - can you tell me the trands reagrding phone
+    - Whats going inthe tecch world for phones
+    - Can you show me the trends in phone
+    - Any new realease for mobiles, whats the news
+    - Update me on the mobile news
+    - show me the latest news for mobiles
